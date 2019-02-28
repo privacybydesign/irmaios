@@ -23,5 +23,4 @@ import irmaios
 `StartIrma()` returns `true` on success, and `false` when the session pointer is malformed.
 
 ## Example app
-
-For an example of a complete flow, including a backend server, take a look at the `demosrv` and `IRMAiOSDemoApp` projects.
+For an example of a complete flow, including a backend server, take a look at the `demosrv` and `IRMAiOSDemoApp` projects in the [irma-examples](https://github.com/privacybydesign/irma-examples).
